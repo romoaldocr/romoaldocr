@@ -1,12 +1,50 @@
-- 👋 Hi, I’m @romoaldocr
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Boas vindas ao meu perfil 🐝
 
-<!---
-romoaldocr/romoaldocr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Meu nome é Leticia Camargo 
+
+- Estou estudando no [Alura](http://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScrip
+- Utilizo esse espaço para minha organizaçã0 e compartilhamento dos meus projetos desenvolvidos
+
+- ## Você entrará em contato comigo 📫
+
+  leticiacamargo0020@gmail.com
+
+  @letica.cr
+
+  ![.](https://media.tenor.com/h9E2wXY2m3MAAAAM/cr7-cristiano-ronaldo.gif)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ã
